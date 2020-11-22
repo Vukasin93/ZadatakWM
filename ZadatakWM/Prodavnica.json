@@ -1,0 +1,29 @@
+[
+  {
+    "ProizvodId": 1,
+    "Naziv": "Mladi sir 1kg",
+    "Opis": "Mladi sir od kravljeg mleka",
+    "Kategorija": "mlecni proizvod",
+    "Proizvodjac": "Mlekara Sabac",
+    "Dobavljac": "Imlek",
+    "Cena": 300.0
+  },
+  {
+    "ProizvodId": 2,
+    "Naziv": "Kajmak 0,5kg",
+    "Opis": "Slani kajmak od kravljeg mleka",
+    "Kategorija": "mlecni proizvod",
+    "Proizvodjac": "Mlekara Sabac",
+    "Dobavljac": "Imlek",
+    "Cena": 350.0
+  },
+  {
+    "ProizvodId": 3,
+    "Naziv": "Fanta 2l",
+    "Opis": "osvezvajuce gazirano pice",
+    "Kategorija": "bezalkoholno pice",
+    "Proizvodjac": "Coca-Cola",
+    "Dobavljac": "Fruti",
+    "Cena": 119.0
+  }
+]
